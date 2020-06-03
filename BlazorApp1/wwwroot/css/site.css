@@ -2,6 +2,8 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-image: url('bootstrap/Avcol Logo.jpg');
+    filter: opacity(opacity: 60%);
 }
 
 a, .btn-link {
